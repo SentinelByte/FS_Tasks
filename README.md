@@ -23,7 +23,7 @@ To use the scripts in this repository, you'll need Python installed on your syst
 
 Once you have Python installed, you can clone this repository using Git:
 
-git clone https://github.com/SentinelByte/FS_Tasks.git
+$bash    git clone https://github.com/SentinelByte/FS_Tasks.git
 
 
 # Usage
