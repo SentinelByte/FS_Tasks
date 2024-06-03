@@ -8,11 +8,16 @@ Table of Contents
     Usage
     Contributing
     License
+    Acknowledge
 
 # Introduction
 
-FS_Task is a collection of Python scripts that perform basic tasks. These scripts are designed to be easy to understand and modify, making them ideal for learning Python or quickly accomplishing common tasks.
-Installation
+FS_Task is a collection of Python scripts that perform basic tasks. 
+
+Dev to ease daily tasks and design to be understandable & modifable, making them ideal for quickly accomplishing FS common tasks.
+
+
+# Installation
 
 To use the scripts in this repository, you'll need Python installed on your system. You can download it from the official Python website.
 
